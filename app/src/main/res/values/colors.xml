@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="menu_bg_selected">#636363</color>
+    <color name="menu_bg">#252525</color>
+
+    <drawable name="trans">#00FFFFFF</drawable>
+    <!-- 所有灰字体的颜色 -->
+    <color name="gray">#959595</color>
+    <!-- 关注家人 -->
+    <color name="family_text">#959595</color>
+    <color name="family_text_title">#444444</color>
+    <!-- 设置 -->
+    <color name="set_text_gray">#959595</color>
+    <color name="set_text_black">#000000</color>
+    <color name="set_text_white">#FFFFFF</color>
+    <!-- 设置基础数据界面 -->
+    <color name="set_info_bg">#F1F0EE</color>
+    <color name="set_info_sex_bg">#FF6E6C</color>
+
+    <!-- 问卷调查 -->
+    <color name="survey_green">#009F6F</color>
+
+    <!-- 条形图的对比颜色  rgb值 -->
+    <integer-array name="family_rect_ground">
+        <item>153</item>
+        <item>153</item>
+        <item>153</item>
+    </integer-array>
+    <integer-array name="family_rect_self">
+        <item>119</item>
+        <item>213</item>
+        <item>159</item>
+    </integer-array>
+    <integer-array name="family_rect_Peers">
+        <item>255</item>
+        <item>127</item>
+        <item>129</item>
+    </integer-array>
+    <integer-array name="family_rect_text">
+        <item>242</item>
+        <item>242</item>
+        <item>242</item>
+    </integer-array>
+
+    <!-- 健康评估分析 -->
+    <color name="data_text">#009b69</color>
+    <color name="btn_get">#99CCFF</color>
+    <!-- 灰背景 -->
+    <color name="gray_background">#F1F0EE</color>
+    <!-- 白条目 -->
+    <color name="white_entry">#FFFFFF</color>
+
+</resources>
